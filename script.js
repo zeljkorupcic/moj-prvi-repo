@@ -3,4 +3,4 @@ console.log("New");
 console.log("Dadadada");
 console.log("Heeeeee");
 console.log("JJJJJJJJ");
-console log("Osoba B")
+console.log("Osoba B");
